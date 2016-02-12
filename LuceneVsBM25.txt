@@ -1,0 +1,6 @@
+query_id | query list (raw-lucene/stemmed-BM25)        | total#_of_docs_retrieved_using_Lucene-hw4 | total_#_of_docs_retrieved_with_BM25-hw3
+--------------------------------------------------------------------------------------------------------------------------------------------
+  q1     | portable operating systems                  |                 440                       |                   871
+  q2     | code optimization for space efficiency      |                1579                       |                  1632
+  q3     | parallel algorithms                         |                 272                       |                  1386
+  q4     | parallel processor in information retrieval |                1529                       |                  1540
